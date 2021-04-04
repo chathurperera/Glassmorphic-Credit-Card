@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Visit](https://ibb.co/c8r2Hyy)
+![](./glassmorphic-credit-card.vercel.app_.png)
 
 
 ### Links
