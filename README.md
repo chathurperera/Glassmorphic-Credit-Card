@@ -1,4 +1,4 @@
-# glassmorphic-credit-card
+# Glassmorphic Credit Card
 This project is based on Glassmorphism which is a new design trend that is currently very popular. The main aspect of this trend is a semi-transparent background, with a sublime shadow and border.
 
 
